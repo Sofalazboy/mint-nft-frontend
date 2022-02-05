@@ -1,3 +1,9 @@
+## Beer portal frontend
+
+This is my version of the mint NFT project at buildspace.so.
+It lets you create NFTs with random text and background color, on UK football clubs.
+This gets stored on-chain, on the Ethereum rinkeby test network.
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
